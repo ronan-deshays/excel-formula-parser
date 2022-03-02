@@ -11,8 +11,7 @@ Excel 2019 and above - [install](https://www.microsoft.com/microsoft-365/excel)
 * launch python in working folder
 
 ## Features
-enable Excel Formula :
-*  versionning formulas using git
+*  Excel Formula versioning formulas using git
 *  writing a formula on multiple lines
 *  adding comments into Excel formula
 
